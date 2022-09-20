@@ -99,4 +99,4 @@ class Rectangle:
         elif r1 > r2:
             return rect_1
         else:
-            return 
+            return
